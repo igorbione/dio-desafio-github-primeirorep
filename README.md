@@ -10,7 +10,7 @@
 
 ### Descrição do repositório
 
-Esse repositório contém anotações referentes ao curso **Introdução ao Git e ao GitHub** ministrado pelo expert Otávio Reis, oferecido na plataforma DIO (https://www.dio.me/) no contexto do bootcamp Potência Tech powered by iFood | Ciências de Dados com Python. Ele é composto por anotações que podem servir como consulta a eventuais iniciantes no mundo do git/git hub. Pretendo continuar alimentando o repositório com mais anotações e códigos a medida em que eu for avançando em meus conhecimentos na ferramenta.
+Esse repositório contém anotações referentes ao curso **Introdução ao Git e ao GitHub**, oferecido na plataforma DIO (https://www.dio.me/) no contexto do bootcamp Potência Tech powered by iFood | Ciências de Dados com Python. Ele é composto por anotações que podem servir como consulta a eventuais iniciantes no mundo do git/git hub. Pretendo continuar alimentando o repositório com mais anotações e códigos a medida em que eu for avançando em meus conhecimentos na ferramenta.
 
 
 #### Anotações disponíveis:
