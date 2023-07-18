@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="200" height="200" />
+<img src="[https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png](https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png)" width="200" height="200" />
   
 </p>
 
 
-### 1° desafio ***Bootcamp  DIO/Geração Tech Unimed-BH - Ciência de Dados***
+### Desafio *** Potência Tech powered by iFood | Ciências de Dados com Python***
 
 
 ### Descrição do repositório
 
-Esse repositório contém anotações referentes ao curso **Introdução ao Git e ao GitHub** ministrado pelo expert Otávio Reis, oferecido na plataforma DIO (https://www.dio.me/) no contexto do bootcamp Geração Tech Unimed-BH - Ciência de Dados. Ele é composto por anotações que podem servir como consulta a eventuais iniciantes no mundo do git/git hub. Pretendo continuar alimentando o repositório com mais anotações e códigos a medida em que eu for avançando em meus conhecimentos na ferramenta.
+Esse repositório contém anotações referentes ao curso **Introdução ao Git e ao GitHub** ministrado pelo expert Otávio Reis, oferecido na plataforma DIO (https://www.dio.me/) no contexto do bootcamp Potência Tech powered by iFood | Ciências de Dados com Python. Ele é composto por anotações que podem servir como consulta a eventuais iniciantes no mundo do git/git hub. Pretendo continuar alimentando o repositório com mais anotações e códigos a medida em que eu for avançando em meus conhecimentos na ferramenta.
 
 
 #### Anotações disponíveis:
