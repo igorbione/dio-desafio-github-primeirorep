@@ -1,7 +1,8 @@
 <p align="center">
-<img src="[https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png](https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png)" width="200" height="200" />
+<img src="https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png" width="200" height="200" />
   
 </p>
+
 
 
 ### Desafio *** Potência Tech powered by iFood | Ciências de Dados com Python***
